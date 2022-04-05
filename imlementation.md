@@ -1,8 +1,8 @@
-# Implementation - Snaganob Assignment
+# Implementation - Snagajob Assignment
 
 ## Overview
 
-This document outlines the implementation fof the web app described by `Web-Code-Asignment.pdf`. See also: [Requirements] (requirements.md)
+This document outlines the implementation fof the web app described by [Web Code Assigment] (web-code-assignment.md). See also: [Requirements] (requirements.md)
 
 # Technology
 
