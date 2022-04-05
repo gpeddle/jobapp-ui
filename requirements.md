@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the requirements for a successful demonstration web app based on the provided [Web Code Assignment] (web-code-assignment.md).
+This document outlines the requirements for a successful demonstration web app based on the provided [Web Code Assignment](web-code-assignment.md).
 
 # Functional Requirements
 
