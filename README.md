@@ -1,5 +1,5 @@
 
-# Overview of the
+# Overview
 
 This project documents a simple web application assignment for Snagajob.
 
