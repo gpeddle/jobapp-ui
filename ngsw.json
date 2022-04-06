@@ -1,0 +1,71 @@
+{
+  "configVersion": 1,
+  "timestamp": 1649251019890,
+  "index": "https://gpeddle.github.io/snagajob-assignment/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gpeddle.github.io/snagajob-assignment/index.html",
+        "https://gpeddle.github.io/snagajob-assignment/main.35b8c1c763a32ccf84fd.js",
+        "https://gpeddle.github.io/snagajob-assignment/manifest.webmanifest",
+        "https://gpeddle.github.io/snagajob-assignment/polyfills.33dd58ae8bb6c06d97e0.js",
+        "https://gpeddle.github.io/snagajob-assignment/runtime.79076186781d830136aa.js",
+        "https://gpeddle.github.io/snagajob-assignment/styles.738e036eed4c4eea8fe3.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://gpeddle.github.io/snagajob-assignment/assets/icons/favicon.ico",
+        "https://gpeddle.github.io/snagajob-assignment/assets/icons/icon.png",
+        "https://gpeddle.github.io/snagajob-assignment/assets/icons/icon_ios.png",
+        "https://gpeddle.github.io/snagajob-assignment/assets/images/snagajob-white.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://gpeddle.github.io/snagajob-assignment/assets/icons/favicon.ico": "ac4247b6312f8d12289e15985a473b6f5ba1b229",
+    "https://gpeddle.github.io/snagajob-assignment/assets/icons/icon.png": "c2334fd4249b62698aa5f800d4d6254c9507ce0d",
+    "https://gpeddle.github.io/snagajob-assignment/assets/icons/icon_ios.png": "c2334fd4249b62698aa5f800d4d6254c9507ce0d",
+    "https://gpeddle.github.io/snagajob-assignment/assets/images/snagajob-white.svg": "6d01ae5e76c0b8221f0d80d3be0182d51d9263fa",
+    "https://gpeddle.github.io/snagajob-assignment/index.html": "5b60ca2130f71e5c03450f819bddcb482b6e422d",
+    "https://gpeddle.github.io/snagajob-assignment/main.35b8c1c763a32ccf84fd.js": "e6aad955735b2a9c136fbb60d5730e5ec2f82e6c",
+    "https://gpeddle.github.io/snagajob-assignment/manifest.webmanifest": "9a088b7c4339228d1082e666ce105dc889bc180c",
+    "https://gpeddle.github.io/snagajob-assignment/polyfills.33dd58ae8bb6c06d97e0.js": "2d109bb97319efd99a280c49d52a5026fe3b2c4b",
+    "https://gpeddle.github.io/snagajob-assignment/runtime.79076186781d830136aa.js": "fe35a6072724bdbe0be3c6029df7ec63929879df",
+    "https://gpeddle.github.io/snagajob-assignment/styles.738e036eed4c4eea8fe3.css": "d2273a3e8f35454039d449ed1fbf333a07b6737b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
