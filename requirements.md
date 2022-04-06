@@ -2,7 +2,8 @@
 
 ## Overview
 
-This document outlines the requirements for a successful demonstration web app based on the provided [Web Code Assignment](web-code-assignment.md).
+This document outlines the requirements for a successful demonstration web app based on the provided PDF description.
+
 
 # Functional Requirements
 
@@ -22,5 +23,7 @@ The application shall:
 
 - *You can assume that the data file will always be valid JSON. For experience, you can assume number of years, months, etc. Ideally you will package your own data file with your code for examination.*
 
+
+See also: The original requirements doc, converted from PDF: [Web Code Assignment](web-code-assignment.md).
 
 
