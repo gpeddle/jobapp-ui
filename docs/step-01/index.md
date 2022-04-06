@@ -45,7 +45,7 @@
     background-color: var(--snagajob-purple);
     ```
 
-9. In `app.componenet.html`, make the following edits:
+9. In `app.component.html`, make the following edits:
 
    - Replace the Angular header icon. (Copy `https://www.snagajob.com/v2assets/brand/images/snagajob-white.svg` to `asssets/images/snagajob-white.svg`)
    - Delete Twitter and Youtube icons from app header
