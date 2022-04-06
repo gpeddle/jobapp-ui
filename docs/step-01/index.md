@@ -23,21 +23,33 @@
     <link rel="icon" sizes="192x192" href="assets/icons/icon.png">
     <link rel="apple-touch-icon" href="assets/icons/icon_ios.png">
     ```
+5. Add font links to `index,html`
 
-5. Set the theme-color to `#2d2873`
+    ```HTML
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    ```
+6. Set the theme-color to `#2d2873`
 
-6. Move CSS from `index.html` to `style.css`
+7. Move CSS from `index.html` to `style.css`
 
-7. In `style.css`, define root variables with Snagajob purple color to start.
+8. In `style.css`, define root variables with Snagajob purple color to start.
 
     ```CSS
     :root {
         --snagajob-purple: #4c2d79;
     }
     ```
+9. In `style.css`, define the body font as foloowiws:
 
+    ```CSS
+    body {
+        font-family: 'Nunito', sans-serif;
+    }
+    ```
 
-8. In `style.css`, replace references to Angular blue with snagajob-purple
+10. In `style.css`, replace references to Angular blue with snagajob-purple
 
     e.g. 
 
@@ -45,13 +57,13 @@
     background-color: var(--snagajob-purple);
     ```
 
-9. In `app.component.html`, make the following edits:
+11. In `app.component.html`, make the following edits:
 
    - Replace the Angular header icon. (Copy `https://www.snagajob.com/v2assets/brand/images/snagajob-white.svg` to `asssets/images/snagajob-white.svg`)
    - Delete Twitter and Youtube icons from app header
    - Delete contents of the #main and footer elements
 
-10. `app.component.html` should now look like this:
+12. `app.component.html` should now look like this:
 
     ```HTML
     <div class="toolbar" role="banner">
@@ -72,12 +84,12 @@
 
     ```
 
-11. Start the local server:
+13. Start the local server:
 
     - Execute `ng serve` 
     - Open a browser to `http://localhost:4200/`
 
 
-12. The Application Shell should look like this:
+14. The Application Shell should look like this:
 
     ![App shell screenshot](app-shell-screenshot.png)
