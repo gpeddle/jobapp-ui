@@ -1,4 +1,4 @@
-# Analysis - Snagajob Assignment
+# Analysis - Web App Assignment
 
 ## Overview
 
@@ -70,7 +70,7 @@ The sample data provided uses sequential integers as ids for the individual appl
 
 ## Aspirations
 
-- Match the Snagajob look and feel
+- Match the company look and feel
 - Match the exmaple UI shown in the Snagajob 'Employers' section
 
 ## Decisions
@@ -79,7 +79,7 @@ The sample data provided uses sequential integers as ids for the individual appl
 2. Setup PWA as part of initial design (mobile-first)
 2. Use plain CSS (small app, reuse or abstraction not needed)
 2. Use an interceptor to mock the backend service needed (static data only))
-3. Copy the basic basic look and feel of the Snagajob website
+3. Copy the basic basic look and feel of the conpany website
 4. Separate the static JSON data into `job-order` and `job-applicant` sets
 
 
