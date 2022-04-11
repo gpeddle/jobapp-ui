@@ -1,7 +1,7 @@
 
 # Overview
 
-This project documents a simple web application assignment for Snagajob.
+This project documents a simple web application assignment.
 
 - [Requirements](requirements.md)
 - [Analysis](analysis.md)
