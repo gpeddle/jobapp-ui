@@ -5,7 +5,7 @@ This project documents a simple web application assignment for Snagajob.
 
 - [Requirements](requirements.md)
 - [Analysis](analysis.md)
-- [Original assignment](web-code-assignement.md) 
+- [Original assignment](web-code-assignment.md) 
 
 The implementation is divided into steps:
 
