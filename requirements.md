@@ -1,4 +1,4 @@
-# Requirements - Snagajob Assignment
+# Requirements - Web App Assignment
 
 ## Overview
 
