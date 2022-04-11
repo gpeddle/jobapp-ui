@@ -10,11 +10,9 @@
 
    `ng add @angular/pwa`
 
-3. Edit `index.html` and replace Angular icons with Snagajob icons. (copy from live website to `assets/icons`)
+3. Edit `index.html` and replace Angular icons with company icons. (copy from live website to `assets/icons`)
 
-    - https://www.snagajob.com/v2assets/saj/favicons/favicon.ico
-    - https://www.snagajob.com/v2assets/images/icons/icon.png
-    - https://www.snagajob.com/v2assets/images/icons/icon_ios.png
+
 
 4. Add icon links tp `index.html`
 
@@ -68,7 +66,7 @@
     ```HTML
     <div class="toolbar" role="banner">
     <img
-        alt="Snagajob"
+        alt="Company"
         src="assets/images/snagajob-white.svg"
         width="120px"
         height="30px"
